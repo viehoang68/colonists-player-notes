@@ -3,7 +3,8 @@
  * Alignment: The party must all be either Neutral & Evil or Neutral & Good on the Good/Evil axis. (E.g. LG/NG/CG + LN/NN/CN OR LE/NE/CE + LN/NN/CN) Creation of Undead is a Neutral or Evil act (depending on use).
  * Starting Level: 7
  * 25 Point Buy - http://plothook.net/tools/pointbuy.htm [if you need a calculator]
- * Standard Pathfinder Races are available. To some degree, player choices will decide the major races in the region. I'm going to be picking 4 but the other 4 will be based on the party, so just keep that in mind. If none of you pick humans, we may have a no-human game. ;)
+ * Standard Pathfinder Races are available. To some degree, player choices will decide the major races in the region. I'm going to be picking 5 but the other 4 will be based on the party, so just keep that in mind. If none of you pick humans, we may have a no-human game. ;)
+	* The five NPC races are going to be: The Masdans [Few remain], The Atlantians [Masters of the Rising Empire of the East (Roman analogue)], The Corinthians [The Fracitious City-States of the Peloponnese], The Babylonians [The Theocrats of the One-True-God], The Nubians [The Barbarians who overran the Masadan Empire from the Deep South]
 	* http://paizo.com/pathfinderRPG/prd/advancedRaceGuide/coreRaces.html <- +1 bonus feat (Highest core race is 11 RP, so 11 RP + 4 RP [feat] = 15 RP)
 	* http://paizo.com/pathfinderRPG/prd/advancedRaceGuide/featuredRaces.html <- these races go as high as 17 RP, so I'm not giving them a boost.
 	* http://paizo.com/pathfinderRPG/prd/advancedRaceGuide/raceBuilder.html <- You can request to make a race with this with 15 RP.
