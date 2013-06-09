@@ -1,6 +1,7 @@
 # Welcome to the Colonists & Councilors [3.5 / Pathfinder - E8 Campaign]
 
- * Game Day / Time is TBD. Right now, leaning towards 5pm or 6pm PST (hour later than the original Reddit thread) on Fridays.
+ * Game Day / Time is TBD. 
+ * Mon-Thurs 6pm PST/9pm EST (2 players confirmed, which of those days is TBD by other players joining) 
 
 # Map Link
  * Base Map (Just basic terrain outline): https://raw.github.com/BlackRobeRising/colonists-player-notes/master/Regions/BaseMap.png
