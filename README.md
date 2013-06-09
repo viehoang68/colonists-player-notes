@@ -2,6 +2,11 @@
 
  * Game Day / Time is TBD. 
  * Mon-Thurs 6pm PST/9pm EST (2 players confirmed, which of those days is TBD by other players joining) 
+ * Starting situation is going to be a quest to take over your group's new base of operations / ruined port city to start your colony at.
+	* You'll have three options to pick from:
+	1. A Masadan Necromancer convinced he can rebuild the Empire, located at a relatively neutral location without any major benefits or penalties.
+	2. A chaotic evil Demon Summoner who is as much a slave to 'his' demons as the slaves he has working the mithral mines beneath the city. However, be warned, his city would be the hardest to hold.
+	3. A Nubian warlord who rules over a lovely, verdant port city where the Nile hits the Ocean. The old Capital of Masada, it has great access to food and potential for trade...assuming you can pacify the hostile areas that surround it. The ancient capital is a boon and a bane. It helps bring people to you but it also draws unwanted attention.
 
 # Map Link
  * Base Map (Just basic terrain outline): https://raw.github.com/BlackRobeRising/colonists-player-notes/master/Regions/BaseMap.png
