@@ -1,10 +1,10 @@
- # Black Bishop, False Priests of the Lower Planes	
+# Black Bishop, False Priests of the Lower Planes	
 	
 	The Black Bishops are the self-serving servants of Daemons, Demons, and Devils. Their pacts are generally relatively simple, provide souls for the Lords Below and do not whine if a token service is required from time to time in their name.
 
 	They are required to undergo a damning ceremony that tests their endurance (DC 15 Fort Save or Die, if we are playing it to the hilt. Feel free to skip this if not appropriate for you.).
 
- ## Requirements
+## Requirements
  * Alignment: Any nonchaotic, nongood
  * Feat: False Focus, False Casting
  * Skills: Bluff 4 ranks, Use Magic Device 4 ranks, Intimidate 4 ranks, Knowledge (Religion) 4 ranks
@@ -12,7 +12,7 @@
  * Special: Contacted an agent of the Lords Below to petition for the Damning ceremony.
 
 
- ## Class Skills
+## Class Skills
  * Bluff (Cha)
  * Diplomacy (Cha)
  * Intimidate (Cha)
