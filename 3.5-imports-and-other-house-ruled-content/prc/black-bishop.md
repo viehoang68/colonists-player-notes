@@ -31,7 +31,7 @@ Skill Ranks at Each Level: 4 + Int modifier
 | 1st  | +0  | +0 | +0 | +1 | False Domain, False Idol | -- |
 | 2nd  | +1  | +1 | +1 | +1 | False Miracles | +1 level of arcane spellcasting class |
 | 3rd  | +1  | +1 | +1 | +2 | Master of Lies | +1 level of arcane spellcasting class |
-| 4th  | +2  | +1 | +1 | +2 | Bishop's Authority, Tainted Miracles | +1 level of arcane spellcasting class |
+| 4th  | +2  | +1 | +1 | +2 | Bishop's Authority, Aura of Evil, Tainted Miracles | +1 level of arcane spellcasting class |
 
 ### False Idol
 
@@ -62,16 +62,20 @@ In return, they increase their sacrifices to twice per Season.
 
 ### Master of Lies
 
- At 3rd level, a Black Bishop adds his class level to any Bluff check made as part of a lie or deception. In addition, whenever he is subject to a spell or special ability that can discern whether or not he is telling the truth, he is automatically aware of such magic. He is not immune to such spells or abilities, but he can choose to remain silent or avoid answering questions.
+At 3rd level, a Black Bishop adds his class level to any Bluff check made as part of a lie or deception. In addition, whenever he is subject to a spell or special ability that can discern whether or not he is telling the truth, he is automatically aware of such magic. He is not immune to such spells or abilities, but he can choose to remain silent or avoid answering questions.
 
 In return, they increase their sacrifices to a monthly basis.
 
-### Bishop's Authortiy
+### Bishop's Authority
 
- At 4th level, a Black Bishop can use Intimidate as a move action.
+At 4th level, a Black Bishop can use Intimidate as a move action.
+
+
+### Aura of Evil
+The power of a Bishop’s aura of evil (see the detect evil spell) is equal to his arcane caster level. A paladin who uses smite evil on a Black Bishop deals 2 points of damage per paladin level on his first successful attack.
 
 ### Tainted Miracles
 
- At 4th level, a Black Bishop can sacrifice divine magic users of any religion other than their own (e.g. Paladins, Antipaladins, Druids, Oracles, Clerics) to augment their magical powers. Every time they ritually sacrifice such a being to the Lords Below, they gain access to any spell on the divine spellcaster's list as a reward. This access allows them to add the spell to their spell list and inscribe it into their spellbook as if they are copying it from another person's spellbook, if required by their arcane spellcasting class.
+At 4th level, a Black Bishop can sacrifice divine magic users of any religion other than their own (e.g. Paladins, Antipaladins, Druids, Oracles, Clerics) to augment their magical powers. Every time they ritually sacrifice such a being to the Lords Below, they gain access to any spell on the divine spellcaster's list as a reward. This access allows them to add the spell to their spell list and inscribe it into their spellbook as if they are copying it from another person's spellbook, if required by their arcane spellcasting class.
 
-In addition, all spells they cast gain the Evil descriptor as they are now directly channeling magic harvested from the souls of their victims. 
+As they are now directly channeling magic harvested from the souls of their victims, they are always treated as Evil for purposes of interacting with spells and effects regardless of their actual alignment. This channeling also renders Positive Energy harmful to them and they can only be healed by Negative Energy (like Undead).
