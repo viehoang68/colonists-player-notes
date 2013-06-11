@@ -8,8 +8,9 @@ They are required to undergo a damning ceremony that tests their endurance (DC 1
  * Alignment: Any nonchaotic, nongood
  * Feat: False Focus, False Casting
  * Skills: Bluff 4 ranks, Use Magic Device 4 ranks, Intimidate 4 ranks, Knowledge (Religion) 4 ranks
- * Spells: Able to cast 3rd-level arcane spells.
+ * Spells: Able to cast 2nd-level arcane spells.
  * Special: Contacted an agent of the Lords Below to petition for the Damning ceremony.
+ * Special: You've only taken levels in a single Arcane casting class.
 
 
 ## Class Skills

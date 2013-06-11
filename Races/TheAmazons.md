@@ -1,6 +1,6 @@
 # Amazons, The Giants of Heaven
 
-
+ * The Amazons are race of small giants that live in a small settlement in the northern forests. Composed entirely of women, this Matriarchal society is the embodiment of female physical prowess. They are very secluded, but should they appear they do so in conquest or in search of new members of their ranks.
  * Racial Stats:
 	* Humanoid (Giant) (+0)
 	* Large (+7): Large creatures gain a +2 size bonus to Strength and a –2 size penalty to Dexterity. Large races take a –1 size penalty to their AC, a –1 size penalty on attack rolls, a +1 bonus on combat maneuver checks and to their CMD, and a –4 size penalty on Stealth checks. A Large creature takes up a space that is 10 feet by 10 feet and has a reach of 5 feet.
