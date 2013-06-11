@@ -1,10 +1,10 @@
-	# Black Bishop, False Priests of the Lower Planes	
+ # Black Bishop, False Priests of the Lower Planes	
 	
 	The Black Bishops are the self-serving servants of Daemons, Demons, and Devils. Their pacts are generally relatively simple, provide souls for the Lords Below and do not whine if a token service is required from time to time in their name.
 
 	They are required to undergo a damning ceremony that tests their endurance (DC 15 Fort Save or Die, if we are playing it to the hilt. Feel free to skip this if not appropriate for you.).
 
-	## Requirements
+ ## Requirements
  * Alignment: Any nonchaotic, nongood
  * Feat: False Focus, False Casting
  * Skills: Bluff 4 ranks, Use Magic Device 4 ranks, Intimidate 4 ranks, Knowledge (Religion) 4 ranks
@@ -12,7 +12,7 @@
  * Special: Contacted an agent of the Lords Below to petition for the Damning ceremony.
 
 
-	## Class Skills
+ ## Class Skills
  * Bluff (Cha)
  * Diplomacy (Cha)
  * Intimidate (Cha)
@@ -24,14 +24,14 @@
 
 Skill Ranks at Each Level: 4 + Int modifier
 
-	## Table: Black Bishop
+## Table: Black Bishop
 
-| Level| Base Attack Bonus | Fort Save  | Ref Save  | Will Save  | Special  | Spells Per Day |
-|:----:|:-------------:|:-----:|:-----:|:-----:|
-| 1st  | +0 | +0 | +0 | +1 | False Domain, False Idol | -- |
-| 2nd  | +1 | +1 | +1 | +1 | False Miracles | +1 level of arcane spellcasting class |
-| 3rd  | +1 | +1 | +1 | +2 | Master of Lies | +1 level of arcane spellcasting class |
-| 4th  | +2 | +1 | +1 | +2 | Bishop's Authority, Tainted Miracles | +1 level of arcane spellcasting class |
+| Level| BAB |Fort|Ref |Will| Special  | Spells Per Day |
+|:----:|:---:|:--:|:--:|:--:|:----:|:----:|
+| 1st  | +0  | +0 | +0 | +1 | False Domain, False Idol | -- |
+| 2nd  | +1  | +1 | +1 | +1 | False Miracles | +1 level of arcane spellcasting class |
+| 3rd  | +1  | +1 | +1 | +2 | Master of Lies | +1 level of arcane spellcasting class |
+| 4th  | +2  | +1 | +1 | +2 | Bishop's Authority, Tainted Miracles | +1 level of arcane spellcasting class |
 
 ### False Idol
 
