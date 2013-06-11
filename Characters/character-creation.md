@@ -35,3 +35,5 @@
 # Leadership
  * Don't take it as a Feat, thanks. You'll be getting a psuedo-leadership like ability from the resources you have at your disposal and I never liked the feat.
 
+# E8 Feat Chains, etc to gain class features...
+ * I'll allow you access to 9th level Class Features, maybe 10th (really depends on what it is for 10th) as that is in line with the power of things like Epic Spell. Just realize, I'll probably limit how many of these you can take and you won't get them frequently. Once a year IC is roughly the rate of progression I'm leaning towards ATM.

@@ -8,6 +8,7 @@
 	* Halo (+2): Members of this race can create light centered on their head at will as a spell-like ability. When using the halo, a member of this race gains a +2 circumstance bonus on Intimidate checks against evil creatures and on saving throws against becoming blinded or dazzled.
 	* Familiarity (+1): Javelin & Bow weapon proficiencies.
 	* Heavenborn (+3): +2 bonus to Knowledge (planes) checks, and they cast spells with the good or light descriptor at +1 caster level.
+	* Amazons count as Aasimar for purposes of qualifying for Racial Feats.
 	* Languages: Masadan, Babylonian
 	* Bonus Languages: Corinthian, Atlantian, Nubian
 
