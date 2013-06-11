@@ -1,8 +1,8 @@
 # Black Bishop, False Priests of the Lower Planes	
 	
-	The Black Bishops are the self-serving servants of Daemons, Demons, and Devils. Their pacts are generally relatively simple, provide souls for the Lords Below and do not whine if a token service is required from time to time in their name.
+The Black Bishops are the self-serving servants of Daemons, Demons, and Devils. Their pacts are generally relatively simple, provide souls for the Lords Below and do not whine if a token service is required from time to time in their name.
 
-	They are required to undergo a damning ceremony that tests their endurance (DC 15 Fort Save or Die, if we are playing it to the hilt. Feel free to skip this if not appropriate for you.).
+They are required to undergo a damning ceremony that tests their endurance (DC 15 Fort Save or Die, if we are playing it to the hilt. Feel free to skip this if not appropriate for you.).
 
 ## Requirements
  * Alignment: Any nonchaotic, nongood
