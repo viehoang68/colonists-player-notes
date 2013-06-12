@@ -1,7 +1,7 @@
 # Welcome to the Colonists & Councilors [3.5 / Pathfinder - E8 Campaign]
 
  * Game Day / Time is TBD. 
- * Mon-Thurs 6pm PST/9pm EST (2 players confirmed, which of those days is TBD by other players joining) 
+ * Mon, Tues or Thurs 6pm PST/9pm EST (3 players confirmed, which of those days is TBD by other players joining) - Need to recruit ~2 more. 
  * Starting situation is going to be a quest to take over your group's new base of operations / ruined port city to start your colony at.
 	* You'll have three options to pick from:
 	1. A Masadan Necromancer convinced he can rebuild the Empire, located at a relatively neutral location without any major benefits or penalties.
