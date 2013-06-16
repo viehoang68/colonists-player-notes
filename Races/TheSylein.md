@@ -1,5 +1,6 @@
 # Sylein
 
+ * http://img208.imageshack.us/img208/3481/lfxm.png
  * A dark-skinned race of serpent-tailed fey from the jungles of the far southwest.
  * The Sylein traveled to this world many centuries ago, establishing a new home in the jungles of the southern continent. Long-lived and intelligent, most Sylein enjoy more intellectual pursuits such as astronomy, mathematics, or philosophy, and thus will frequently travel forth to other lands in search of more knowledge and greater understanding.
  * Racial Stats:
