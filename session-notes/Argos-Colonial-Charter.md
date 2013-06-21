@@ -76,6 +76,8 @@ Ex-Slave is named Evel. Has the paper for the thing.
 
 ### SESSION LOG:
 
+```
+
 [BlackRobeRising] Sorry about tht :/
 
 [Emn1ty] np
@@ -2107,3 +2109,5 @@ Ex-Slave is named Evel. Has the paper for the thing.
 [_Naboo] "Eh, I've always been a curious person, I can't help but ask."
 
 [Euanthe] "Well I'm not exactly sure what it does. It tastes pretty bad but it's supposed to help me or something with this quest."
+
+```
