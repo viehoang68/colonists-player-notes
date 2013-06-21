@@ -59,11 +59,11 @@ He has a few hundred Masadan slaves, a company or two of soliders, and decent sk
 
 
 ( https://github.com/BlackRobeRising/colonists-player-notes/blob/master/Regions/LocalMap.png basically what you know if the area, the you are here bit is where the city ruins you are aiming for is located )
-
+```
 [dice-bot] [ colonists-player-notes/Regions/LocalMap.png at master · BlackRobeRising/colonists-player-notes · GitHub ] - https://github.com
 
 [BlackRobeRising] (There are a couple obvious bays on the estern and north eastern ends of the island, so those would be easiest)
-
+```
 ###Diplomatic Notes
 
  * Athenians and Spartans are skirmishing through proxy states. War seems to be brewing.
