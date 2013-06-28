@@ -1,3 +1,4 @@
+```
 Jun 27 18:26:43 <BlackRobeRising>	Did you guys want to do anything before sleeping or shall I start with you waking up?
 Jun 27 18:26:55 ---	Emn1ty is now known as Eueanthe
 Jun 27 18:26:57 <Pocketknife>	set a watch?
@@ -756,3 +757,4 @@ Jun 27 22:25:14 <Evel>	( alright, saving the logs to github again? )
 Jun 27 22:25:36 <Euanthe>	(fine with me)
 Jun 27 22:25:53 *	Kirveis hasn't been casting any notable spells, so she doesn't need to sleep more than necessary, and can keep watch. Bephnora wants her beauty sleep though, so she's not staying up.
 Jun 27 22:28:20 <Evel>	(Okay, copying pasting from this point up then. Goodnight folks)
+```
