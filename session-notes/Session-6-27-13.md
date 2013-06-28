@@ -1,3 +1,8 @@
+
+# Summary
+
+Party has advanced into the city and is holed up on the first floor of a 2-story with no roof.
+
 ```
 Jun 27 18:26:43 <BlackRobeRising>	Did you guys want to do anything before sleeping or shall I start with you waking up?
 Jun 27 18:26:55 ---	Emn1ty is now known as Eueanthe
