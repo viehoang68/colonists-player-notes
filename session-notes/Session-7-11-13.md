@@ -1,3 +1,4 @@
+```
  BlackRobeRising has changed the topic to: 6pm PST / 9pm EST Thursdays | Campaign Info: https://github.com/BlackRobeRising/colonists-player-notes | Anyone who misses two sessions in a row w/o notice gets booted.
 <BlackRobeRising> Ready to start folks?
 <Emn1ty> sure
@@ -791,3 +792,4 @@
  that fill you up?
  anyone else get hurt
 <Evel> [ I'm going to bed :P ]
+```
