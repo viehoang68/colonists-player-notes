@@ -780,3 +780,14 @@
 <Evel> [ kay ]
 <Felix_The_Pensiv> i will still heal euanthe
 <Evel> [ Taking from here on up, and calling it the end for the night. We can sort out the rest next Thurs, kay? ]
+<Evel> [ Taking from here on up, and calling it the end for the night. We can sort out the rest next Thurs, kay? ]
+<Kirveis> In Nubian, I order him to strip naked and crawl over to the women, offering them his clothes.
+<Euanthe> ( much appreciated )
+<Euanthe> ( sure thing, Evel )
+<Felix_The_Pensiv> .roll 4d6
+<dice-bot> Felix_The_Pensiv : 4d6 = 10 | [3,2,1,4] | 10 | 
+<Euanthe> ( so 22 total? )
+<Felix_The_Pensiv> correct
+ that fill you up?
+ anyone else get hurt
+<Evel> [ I'm going to bed :P ]
